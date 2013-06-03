@@ -3,7 +3,7 @@ Willow Monitor
 
 Quick Overview
 
-A dusty old pile of source code that has never seen the light of day. It needs a complete revamp and I intend to get it to a working level 
+A dusty old pile of source code (the github repo master version has not been touched since 2008) that has never seen the light of day. It needs a complete revamp and I intend to get it to a working level 
 and eventually post it up as a fully working application.
 
 WHEN AN ONLINE DEMO IS AVAILABLE, A LINK WILL GO HERE!
