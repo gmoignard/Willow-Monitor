@@ -1,9 +1,10 @@
-==== willow Monitor ====
-
+Willow Monitor
 
 Quick Overview:
-Windows/Unix Network Monitor (Perl scheduling engine) with PHP based SMS/Email/Jabber alerting/escalation and GUI application.
+A dusty old pile of source code thata never seen the light of day. It needs a complete revamp and I intend to get it to a working level 
+and eventually post it up as a fully working application.
 
+WHEN A DEMO IS AVAILABLE, A LINK WILL GO HERE!
 
 Requirements
 ============
