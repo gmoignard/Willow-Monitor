@@ -13,9 +13,9 @@ Windows OS or Linux for PHP based reporting, alerting and escaltion bridge (Linu
 Windows MSSQL Server Express 2008+ or MSSQL Server 2008+
 
 
-Application Areas
-=================
-
+Application Areas\n
+=================\n
+\n\n
 Scheduling Engine: PERL
 Alerting & Scalation bridge: PHP
 Database: MSSQL 2008
